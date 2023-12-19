@@ -786,7 +786,6 @@ div.dataTables_wrapper .ui-widget-header {
   float: left;
   border-right: 1px solid #dadada;
 }
-
 .widget-title h5 {
   color: #666;
   float: left;
@@ -1505,12 +1504,6 @@ form {
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   margin-left: 8px;
-}
-.quick-actions li a i[class^="fa-"],
-.quick-actions li a i[class*=" fa-"] {
-  font-size: 35px;
-  display: block;
-  margin: 0 auto 5px;
 }
 .accordion {
   margin-top: 16px;
